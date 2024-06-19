@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01-SRPSD-LMS\\School-Management-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|d:\\01-srpsd-lms\\school-management-api\\school-management-api\\migrations\\20240618100830_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\migrations\\20240618100830_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\dtos\\requests\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\dtos\\requests\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\dtos\\requests\\studentregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\dtos\\requests\\studentregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\dtos\\requests\\adminregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\dtos\\requests\\adminregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\dtos\\assignclasstosubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\dtos\\assignclasstosubjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\responses\\subjectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\responses\\subjectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\responses\\classresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\responses\\classresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\configurations\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\configurations\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\configurations\\authresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\helpers\\emailbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\helpers\\emailbody.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\dtos\\teachersdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\dtos\\teachersdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\dtos\\studentsdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\dtos\\studentsdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|D:\\01-SRPSD-LMS\\School-Management-API\\school-management-api\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389D7AA0-E8A9-42F8-B8D9-07AEC20F93EA}|School-Management-API\\School-Management-API.csproj|solutionrelative:school-management-api\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240618100830_initial_create.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Migrations\\20240618100830_initial_create.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Migrations\\20240618100830_initial_create.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Migrations\\20240618100830_initial_create.cs",
+              "RelativeToolTip": "School-Management-API\\Migrations\\20240618100830_initial_create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T10:08:31.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRegisterDto.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\Requests\\StudentRegisterDto.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\DTOs\\Requests\\StudentRegisterDto.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\Requests\\StudentRegisterDto.cs",
+              "RelativeToolTip": "School-Management-API\\DTOs\\Requests\\StudentRegisterDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:19:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\Requests\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\DTOs\\Requests\\LoginRequestDto.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\Requests\\LoginRequestDto.cs",
+              "RelativeToolTip": "School-Management-API\\DTOs\\Requests\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:19:30.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminRegisterDto.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\Requests\\AdminRegisterDto.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\DTOs\\Requests\\AdminRegisterDto.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\Requests\\AdminRegisterDto.cs",
+              "RelativeToolTip": "School-Management-API\\DTOs\\Requests\\AdminRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:18:59.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignClassToSubjectDto.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\AssignClassToSubjectDto.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\DTOs\\AssignClassToSubjectDto.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\AssignClassToSubjectDto.cs",
+              "RelativeToolTip": "School-Management-API\\DTOs\\AssignClassToSubjectDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:18:04.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectResponse.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Responses\\SubjectResponse.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Responses\\SubjectResponse.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Responses\\SubjectResponse.cs",
+              "RelativeToolTip": "School-Management-API\\Responses\\SubjectResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:11:45.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassResponse.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Responses\\ClassResponse.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Responses\\ClassResponse.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Responses\\ClassResponse.cs",
+              "RelativeToolTip": "School-Management-API\\Responses\\ClassResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T05:11:34.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Configurations\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Configurations\\JwtConfig.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Configurations\\JwtConfig.cs",
+              "RelativeToolTip": "School-Management-API\\Configurations\\JwtConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:59:41.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthResult.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Configurations\\AuthResult.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Configurations\\AuthResult.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Configurations\\AuthResult.cs",
+              "RelativeToolTip": "School-Management-API\\Configurations\\AuthResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:59:39.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\appsettings.json",
+              "RelativeDocumentMoniker": "School-Management-API\\appsettings.json",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\appsettings.json",
+              "RelativeToolTip": "School-Management-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-28T04:54:52.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Parent.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Models\\Parent.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Parent.cs",
+              "RelativeToolTip": "School-Management-API\\Models\\Parent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:46:49.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Models\\AppUser.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\AppUser.cs",
+              "RelativeToolTip": "School-Management-API\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:17:07.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Models\\Student.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Student.cs",
+              "RelativeToolTip": "School-Management-API\\Models\\Student.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:17:25.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Models\\Teacher.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Teacher.cs",
+              "RelativeToolTip": "School-Management-API\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:18:03.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Program.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Program.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Program.cs",
+              "RelativeToolTip": "School-Management-API\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:38:25.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Models\\Admin.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Admin.cs",
+              "RelativeToolTip": "School-Management-API\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:46:06.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Models\\Subject.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Subject.cs",
+              "RelativeToolTip": "School-Management-API\\Models\\Subject.cs",
+              "ViewState": "AQIAAAEAAABgZmZmZmYkwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T11:07:52.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Emailbody.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Helpers\\Emailbody.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Helpers\\Emailbody.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Helpers\\Emailbody.cs",
+              "RelativeToolTip": "School-Management-API\\Helpers\\Emailbody.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:31:54.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Data\\SchoolDbContext.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "School-Management-API\\Data\\SchoolDbContext.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAgwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:55:08.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "School-Management-API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:11:41.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Models\\Class.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Models\\Class.cs",
+              "RelativeToolTip": "School-Management-API\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:26:31.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentsDetailsDto.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\StudentsDetailsDto.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\DTOs\\StudentsDetailsDto.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\StudentsDetailsDto.cs",
+              "RelativeToolTip": "School-Management-API\\DTOs\\StudentsDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:26:03.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeachersDetailsDto.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\TeachersDetailsDto.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\DTOs\\TeachersDetailsDto.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\DTOs\\TeachersDetailsDto.cs*",
+              "RelativeToolTip": "School-Management-API\\DTOs\\TeachersDetailsDto.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:26:05.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Controllers\\SubjectController.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "School-Management-API\\Controllers\\SubjectController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T10:04:36.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "School-Management-API\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:11:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "School-Management-API\\Controllers\\ClassController.cs",
+              "ToolTip": "D:\\01-SRPSD-LMS\\School-Management-API\\School-Management-API\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "School-Management-API\\Controllers\\ClassController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:59:46.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
